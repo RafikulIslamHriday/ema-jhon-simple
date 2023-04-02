@@ -1,0 +1,18 @@
+.header {
+  max-width: 1400px;
+  height: 60px;
+  background: #000000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 100px;
+}
+.header div a {
+    margin-left: 30px;
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 0.005em;
+}
